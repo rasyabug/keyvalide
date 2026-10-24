@@ -5,5 +5,29 @@
     "device_id": "",
     "revoked": false,
     "device_lock": true
+  },
+  "SYAC-AAAA-BBBB-0001": {
+    "type": "1D",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "SYAC-AAAA-BBBB-0003": {
+    "type": "3D",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "SYAC-AAAA-BBBB-0007": {
+    "type": "7D",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  },
+  "SYAC-AAAA-BBBB-0021": {
+    "type": "21D",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
   }
 }
