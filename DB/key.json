@@ -1,6 +1,9 @@
-"PHTM-ABCD-1234-EFGH": {
-    expires:   new Date("2027-01-01").getTime(),
-    hwid:      null,
-    activated: Date.now(),
-    device:    null
+{
+  "SYAC-AVBC-LOWE-BVXX": {
+    "type": "lifetime",
+    "expires": "2099-12-31",
+    "device_id": "",
+    "revoked": false,
+    "device_lock": true
+  }
 }
