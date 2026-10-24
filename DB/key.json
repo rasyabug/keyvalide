@@ -1,1 +1,6 @@
-
+"PHTM-ABCD-1234-EFGH": {
+    expires:   new Date("2027-01-01").getTime(),
+    hwid:      null,
+    activated: Date.now(),
+    device:    null
+}
